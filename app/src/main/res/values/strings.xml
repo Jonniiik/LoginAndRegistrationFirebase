@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginAndRegistration</string>
+    <string name="doNotHaveAnAccount">"Don't have an account?"</string>
+    <string name="SingUp">"Sing Up"</string>
+    <string name="SingUpHere">"here"</string>
+    <string name="registration">"REGISTER  "</string>
+    <string name="back">" Back"</string>
+    <string name="password">Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "982591344525",
+    "firebase_url": "https://mychat-6d08d.firebaseio.com",
+    "project_id": "mychat-6d08d",
+    "storage_bucket": "mychat-6d08d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982591344525:android:0148223234994c2f",
+        "android_client_info": {
+          "package_name": "com.eugeneponomarev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982591344525-cedsgnhecmhuhcrnr27paq0thvijg53r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eugeneponomarev.chatapp",
+            "certificate_hash": "51c6d8c56ec12804cd026daf5411bb811c4312fe"
+          }
+        },
+        {
+          "client_id": "982591344525-0h75qbcaonfv9597du2slkugsvaie71b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9If4PGAXGDF1SWoV00qnv4Se-MXPiuDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982591344525-0h75qbcaonfv9597du2slkugsvaie71b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982591344525:android:48ecb81b37bb42ed",
+        "android_client_info": {
+          "package_name": "com.eugeneponomarev.loginandregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982591344525-riinnqfh05d7mmc1odfffhoireg1qg6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eugeneponomarev.loginandregistration",
+            "certificate_hash": "51c6d8c56ec12804cd026daf5411bb811c4312fe"
+          }
+        },
+        {
+          "client_id": "982591344525-0h75qbcaonfv9597du2slkugsvaie71b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9If4PGAXGDF1SWoV00qnv4Se-MXPiuDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982591344525-0h75qbcaonfv9597du2slkugsvaie71b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982591344525:android:c9b5fddda12c49a8",
+        "android_client_info": {
+          "package_name": "com.eugeneponomarev.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982591344525-ni8efgovp8dtn0e25dkvo3qr0booti56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eugeneponomarev.mychat",
+            "certificate_hash": "51c6d8c56ec12804cd026daf5411bb811c4312fe"
+          }
+        },
+        {
+          "client_id": "982591344525-0h75qbcaonfv9597du2slkugsvaie71b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9If4PGAXGDF1SWoV00qnv4Se-MXPiuDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982591344525-0h75qbcaonfv9597du2slkugsvaie71b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
